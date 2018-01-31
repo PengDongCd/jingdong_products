@@ -1,0 +1,8 @@
+QueryParams:
+  cat: 652,654,832
+  page: 1
+  delivery_glb: 1
+  sort: sort_totalsales15_desc
+  trans: 1
+  debug: cluster
+  JL: 6_0_0
